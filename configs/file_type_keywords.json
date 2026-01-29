@@ -1,0 +1,39 @@
+{
+  "log": ["log"],
+  "text": ["txt", "text"],
+  "config": ["ini", "cfg", "conf", "yaml", "yml", "toml"],
+
+  "data": ["dat", "data"],
+  "raw": ["bin", "raw"],
+
+  "hdf5": ["h5", "hdf5"],
+  "netcdf": ["nc", "netcdf", "nc4"],
+  "xdmf": ["xdmf", "xml"],
+  "vtk": ["vtk", "vtu", "pvtu"],
+
+  "sim_input": ["in", "inp", "input", "cas", "foam"],
+  "sim_output": ["out", "output", "result", "res", "o", "foam"],
+
+  "checkpoint": ["ckpt", "checkpoint", "rst", "restart", "pt", "pth"],
+
+  "tensor_data": ["npy", "npz", "tensor"],
+
+  "source_c_cpp": ["c", "cc", "cpp", "h", "hpp"],
+  "source_fortran": ["f", "f77", "f90", "f95"],
+  "source_python": ["py"],
+  "notebook": ["ipynb"],
+  "shell_script": ["sh", "bash", "slurm", "sbatch"],
+
+  "table": ["csv", "tsv", "parquet"],
+
+  "image": ["jpg", "jpeg", "png"],
+  "tiff": ["tif", "tiff"],
+
+  "mesh": ["obj", "stl", "ply", "msh", "exo", "exodus", "geo", "neu", "cgns"],
+
+  "meta": ["json"],
+
+  "database": ["db", "sqlite", "sql", "bson", "parquet"],
+
+  "archive": ["tar", "zip", "gz"]
+}

@@ -1,0 +1,27 @@
+{
+  "1": {
+    "app_name": "h5bench_read",
+    "keywords": ["h5bench_read"],
+    "indim": {"inter_mon_j": 33, "inter_mon_f": 34}
+  },
+  "2": {
+    "app_name": "h5bench_read",
+    "keywords": ["h5bench_write","h5bench_write"],
+    "indim": {"inter_mon_j": 33, "inter_mon_f": 34}
+  },
+  "3": {
+    "app_name": "lammps",
+    "keywords": ["lmp","lammps"],
+    "indim": {"inter_mon_j": 37, "inter_mon_f": 38}
+  },
+  "4": {
+    "app_name": "vasp",
+    "keywords": ["vasp"],
+    "indim": {"inter_mon_j": 37, "inter_mon_f": 38}
+  },
+  "5": {
+    "app_name": "gromacs",
+    "keywords": ["gmx","gromacs"],
+    "indim": {"inter_mon_j": 19, "inter_mon_f": 20}
+  }
+}

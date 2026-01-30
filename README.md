@@ -11,7 +11,7 @@ and produces structured forensic reports for post-execution investigation.
 
 ## Repository Structure
 
-.
+/.
 ├── baselines/          # Time-series based autoencoder baselines used for comparison
 │   ├── components/
 │   └── models/
@@ -22,7 +22,7 @@ and produces structured forensic reports for post-execution investigation.
 │   ├── models/         # Classifiers, embedders, and anomaly detectors
 │   └── utils/          # Visualization and helper utilities
 └── README.md
-
+/
 ---
 
 ## Usage
